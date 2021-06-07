@@ -90,7 +90,7 @@ header{
   transition:all 2.5s;
 }
 
-.change.first-row, .change.second-row{
+.change .first-row, .change .second-row{
   transform:translateX(0);
   opacity:1;
 } 
