@@ -104,6 +104,9 @@ header{
 }
 
 /* end of famous writers */
+
+/* suggested books */
+
 .suggested-books{
   height:100vh;
   background:url('../img/wood-bg.jpeg')center no-repeat;
@@ -121,7 +124,7 @@ header{
   box-shadow:5px 5px 15px #444;
   border-right:5px solid #777;
   border-bottom:10px solid #444;
-  transition:all 7s ease-in-out;
+  transition:all .7s ease-in-out;
 }
 
 
@@ -156,8 +159,6 @@ header{
   border-bottom:20px solid #bbb;
   border-right:10px solid #ddd;
 }
-
-/* suggested books */
 
 
 
